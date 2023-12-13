@@ -22,7 +22,7 @@
                     </ul>
                 </div>
             <?php else : ?>
-                <a class="btn btn-secondary" href="login.php">Login</a>
+                <a class="btn btn-dark" href="login.php">Login</a>
             <?php endif; ?>
         </div>
     </div>

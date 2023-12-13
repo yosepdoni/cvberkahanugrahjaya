@@ -6,7 +6,7 @@
             <div class="col-sm-6 mt-3">
                 <form action="" method="get">
                     <div class="input-group">
-                        <input type="text" class="form-control" name="keyword" placeholder="Cari nama produk disini..." value="<?= $_GET['keyword'] ? $_GET['keyword'] : '' ?>">
+                        <input type="text" class="form-control" name="keyword" placeholder="Cari nama produk" value="<?= $_GET['keyword'] ? $_GET['keyword'] : '' ?>">
                         <button class="btn btn-dark" type="submit">Cari</button>
                     </div>
                 </form>

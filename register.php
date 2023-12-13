@@ -5,13 +5,13 @@ require_once 'koneksi.php';
 ?>
 <!DOCTYPE html>
 
-<html lang="en" class="light-style customizer-hide" dir="ltr" data-theme="theme-default" data-admin/assets-path="admin/assets/" data-template="vertical-menu-template-free">
+<!-- <html lang="en" class="light-style customizer-hide" dir="ltr" data-theme="theme-default" data-admin/assets-path="admin/assets/" data-template="vertical-menu-template-free"> -->
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>Indosegarasa</title>
+    <title>CV Berkat Anugrah Jaya</title>
 
     <meta name="description" content="" />
 
@@ -55,14 +55,14 @@ require_once 'koneksi.php';
                 <div class="card">
                     <div class="card-body">
                         <!-- Logo -->
+                        <h4 class="text-center text-dark fs-3 mb-2">Registrasi</h4>
+
                         <div class="app-brand justify-content-center">
                             <a href="index.html" class="app-brand-link gap-2">
-                                <span class="app-brand-text demo text-body fw-bolder">Indosegarasa</span>
+                                <span class="app-brand-text fw-bolder fs-3 text-dark">CV Berkat Anugrah Jaya</span>
                             </a>
                         </div>
                         <!-- /Logo -->
-                        <h4 class="mb-2">Register</h4>
-
                         <form id="formAuthentication" class="mb-3" action="" method="POST">
                             <div class="mb-3">
                                 <!-- <label for="nama" class="form-label">Nama</label> -->

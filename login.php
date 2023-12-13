@@ -64,9 +64,9 @@ require_once 'koneksi.php';
                 <div class="card">
                     <div class="card-body">
                         <!-- Logo -->
-                        <h4 class="mb-3 text-center">Login</h4>
+                        <h4 class="mb-3 text-dark fs-3 text-center">Login</h4>
                         <div class="app-brand justify-content-center">
-                                <span class="app-brand-text fw-bolder fs-3">CV Berkat Anugrah Jaya</span>
+                                <span class="app-brand-text fw-bolder fs-3 text-dark">CV Berkat Anugrah Jaya</span>
                             </a>
                         </div>
                         <!-- /Logo -->
